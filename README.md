@@ -19,7 +19,7 @@ This Python script is used to calculate and save student grades in an Excel form
    Make sure you have the `pandas` and `openpyxl` libraries installed. You can install them using pip:
 
 ```sh
-pip install pandas openpyxl
+pip install -r requirements.txt
 ```
 
 2. Run the Script
